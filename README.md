@@ -1,3 +1,7 @@
+# Hands on approach to understanding the Angular Framework
+
+## AaM
+
 # LocalWeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
