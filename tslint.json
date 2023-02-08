@@ -7,9 +7,19 @@
   ],
   "rules": {
     "no-unused-declaration": true,
-    "max-line-length": [false, 90],
-    "quotemark": [true, "single", "avoid-escape"],
-    "semicolon": [true, "never"],
+    "max-line-length": [
+      false,
+      90
+    ],
+    "quotemark": [
+      true,
+      "single",
+      "avoid-escape"
+    ],
+    "semicolon": [
+      true,
+      "never"
+    ],
     "prettier": true
   }
 }
